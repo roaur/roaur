@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @roaur
-- 📫 Reach me at roman@somewhatspatial.com and @roaur:matrix.somewhatspatial.com on Matrix!
+Matrix: @roaur:matrix.somewhatspatial.com
 
 <!---
 roaur/roaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
